@@ -1,6 +1,18 @@
 # AI Project Health Reporting Agent
 
-> AI-powered project health analysis and executive reporting system built for the Zycus AI Engineer Intern Assessment.
+> AI-powered project health analysis and executive reporting system Developed as a solution for the Zycus AI Engineer Intern take-home assessment.
+
+
+
+---
+## Key Design Principle
+
+Project health is computed using deterministic business rules.
+
+Large Language Models are used only for generating executive-friendly explanations and never for determining project health.
+
+This ensures repeatable, explainable, and auditable results.
+---
 
 ---
 
@@ -195,9 +207,8 @@ Optional:
 Clone the repository
 
 ```bash
-git clone <repository-url>
-
-cd project
+git clone https://github.com/HuwaisDon/zycus_test.git
+cd zycus_test
 ```
 
 Install dependencies

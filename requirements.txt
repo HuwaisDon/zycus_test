@@ -1,0 +1,6 @@
+pandas
+openpyxl
+python-pptx
+schedule
+pytest
+google-generativeai
